@@ -7,16 +7,15 @@
 * Return: 0
 */
 
-
 int main(void)
 {
-	int months;
+	int month;
 	int day;
-	int years;
+	int year;
 
-	month = 4;
-	day = 01;
-	year = 1997;
+	month = 2;
+	day = 29;
+	year = 2000;
 
 	printf("Date: %02d/%02d/%04d\n", month, day, year);
 
