@@ -10,9 +10,9 @@
 
 int main(void)
 {
-	int months;
+	int month;
 	int day;
-	int years;
+	int year;
 
 	month = 4;
 	day = 01;
